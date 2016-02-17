@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PaletteDePeintre</string>
+    <string name="action_settings">Settings</string>
+   <string name="Nouvelle">Nouvelle</string>
+<string name="brosse">Brosse</string>
+<string name="effacer">Effacer</string>
+<string name="enregister">Enregistrer</string>
+<string name="dessiner">Dessiner</string>
+<string name="paint">zone</string>
+<string name="sml">Small</string>
+<string name="med">Medium</string>
+<string name="lrg">Large</string>
+</resources>
